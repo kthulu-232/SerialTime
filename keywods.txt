@@ -1,0 +1,19 @@
+# ---------------------------------- KEYWORDS--------------------------------- #
+set_timer      KEYWORD
+start_timer    KEYWORD
+get_valor      KEYWORD
+switch_pin     KEYWORD
+get_pin        KEYWORD
+timer_register KEYWORD
+Read_time      FUNCION
+menu           FUNCION
+pin_change     FUNCION
+timers_display FUNCION
+rx_menu        FUNCION
+_n_timers      FUNCION
+menu           FUNCION
+
+
+
+
+# ---------------------------------------------------------------------------- #
